@@ -1,7 +1,7 @@
 <#
 .SYNOPSIS
-    This PowerShell script ensures that AutoRun commands are prevented, you need to configure the relevant registry setting to disable AutoRun behavior on all drives.
-
+    This PowerShell script sets the ECC Curve Order to prioritize NistP384 over NistP256, ensuring stronger cryptographic algorithms are used.
+    
 .NOTES
     Author          : Clive Mangerere
     LinkedIn        : https://www.linkedin.com/in/mclive/
