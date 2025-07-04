@@ -1,6 +1,6 @@
   <#
 .SYNOPSIS
-    This PowerShell script ensures that AutoRun commands are prevented, you need to configure the relevant registry setting to disable AutoRun behavior on all drives.
+    This PowerShell script  Disables AutoRun for all drives to prevent automatic execution of potentially malicious code from removable media.
 
 .NOTES
     Author          : Clive Mangerere
