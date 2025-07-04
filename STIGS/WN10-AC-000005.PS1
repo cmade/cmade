@@ -1,7 +1,6 @@
   <#
 .SYNOPSIS
-    This PowerShell script ensures that if an account gets locked out (due to failed logon attempts), it will stay locked for at least 15 minutes, deterring brute-force attacks.
-
+    This PowerShell script configures the account lockout duration to 15 minutes or more to protect against brute-force login attempts.
 .NOTES
     Author          : Clive Mangerere
     LinkedIn        : https://www.linkedin.com/in/mclive/
