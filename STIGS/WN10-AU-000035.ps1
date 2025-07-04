@@ -1,7 +1,7 @@
   <#
 .SYNOPSIS
-   The PowerShell script ensures that Windows 10 logs failed user account management events, making the system compliant with STIG WN10-AU-000035 and passing Tenable scans.
-
+   The PowerShell script enables auditing of failed user account management events to ensure changes and errors are logged for security monitoring.
+   
 .NOTES
     Author          : Clive Mangerere
     LinkedIn        : https://www.linkedin.com/in/mclive/
