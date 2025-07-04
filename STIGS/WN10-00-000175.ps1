@@ -1,7 +1,7 @@
  <#
 .SYNOPSIS
-    This PowerShell script ensures that AutoRun commands are prevented, you need to configure the relevant registry setting to disable AutoRun behavior on all drives.
-
+    This PowerShell script disables the Secondary Logon service (seclogon) to prevent privilege escalation via "Run as" functionality.
+    
 .NOTES
     Author          : Clive Mangerere
     LinkedIn        : https://www.linkedin.com/in/mclive/
