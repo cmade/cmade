@@ -1,6 +1,6 @@
   <#
 .SYNOPSIS
-    This PowerShell script  Disables AutoRun for all drives to prevent automatic execution of potentially malicious code from removable media.
+    This PowerShell script disables AutoRun for all drives to prevent automatic execution of potentially malicious code from removable media.
 
 .NOTES
     Author          : Clive Mangerere
