@@ -8,7 +8,7 @@ Here, you'll find a collection of projects that reflect my commitment to securin
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/cmade/vulnerability-management-program-/tree/main)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/cmade/cmade/tree/main/STIGS)**
+- **[Programmatic Vulnerability Remediations (PowerShell)](https://github.com/cmade/cmade/tree/main/STIGS)**
 
 ## 🚨 Threat Hunting and Security Operations
 
