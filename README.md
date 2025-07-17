@@ -13,6 +13,7 @@ Here, you'll find a collection of projects that reflect my commitment to securin
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/cmade/threat-hunting-scenario-tor/blob/main/threat-hunting-scenario-tor-event-creation.md)**
+- **[Threat Hunts](https://#)**
 
 <hr/>
 
